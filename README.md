@@ -9,7 +9,7 @@
 <a href="https://twitter.com/MacacaQATAR" ><img src="https://img.shields.io/twitter/follow/MacacaQATAR.svg?style=social" /> </a>
 <br>
 
-<i>A curated list of awesome Github Profile READMEs</i>
+<i> Welcome Web3 Builders Macaca Welcome You READMEs</i>
 
 <a href="https://github.com/macacaqatar/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/macacaqatar/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/macacaqatar/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/macacaqatar/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -340,13 +340,6 @@
 - ["How to Create a Self-Updating README.md for Your GitHub Profile"](https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) - *Thomas Guibert*
 - ["一文玩转github主页"](https://blog.holic-x.com/wv-blog/post/7ad96a5d.html) - *holic-x*
 
-## Tutorials
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
-- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
-- ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
-- ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
-- ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
-
 ## Contribute
 
 Contributions are always welcome!
@@ -359,4 +352,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [MacacaQATAR](https://macacaqatar.tech/) has waived all copyright and related or neighboring rights to this work.
